@@ -3,7 +3,7 @@
   src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Light.woff2') format('woff2'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Light.woff') format('woff'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Light.ttf') format('truetype');
-  font-weight: 300;
+  font-weight: 200;
   font-display: swap;
   font-style: normal;
 }
@@ -12,7 +12,7 @@
   src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-LightItalic.woff2') format('woff2'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-LightItalic.woff') format('woff'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-LightItalic.ttf') format('truetype');
-  font-weight: 300;
+  font-weight: 200;
   font-display: swap;
   font-style: italic;
 }
@@ -21,7 +21,7 @@
   src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Regular.woff2') format('woff2'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Regular.woff') format('woff'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Regular.ttf') format('truetype');
-  font-weight: 400;
+  font-weight: 300;
   font-display: swap;
   font-style: normal;
 }
@@ -30,7 +30,7 @@
   src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Italic.woff2') format('woff2'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Italic.woff') format('woff'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Italic.ttf') format('truetype');
-  font-weight: 400;
+  font-weight: 300;
   font-display: swap;
   font-style: italic;
 }
@@ -39,7 +39,7 @@
   src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Medium.woff2') format('woff2'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Medium.woff') format('woff'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Medium.ttf') format('truetype');
-  font-weight: 500;
+  font-weight: 400;
   font-display: swap;
   font-style: normal;
 }
@@ -48,7 +48,7 @@
   src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-MediumItalic.woff2') format('woff2'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-MediumItalic.woff') format('woff'),
        url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-MediumItalic.ttf') format('truetype');
-  font-weight: 500;
+  font-weight: 400;
   font-display: swap;
   font-style: italic;
 }
