@@ -1,10 +1,8 @@
+here's my current setup, does the one above match everything correctly just adding the new files?
+
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Light.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Light.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Light.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Light.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Light.woff2') format('woff2');
   font-weight: 200; 
   font-style: normal;
   font-display: swap;
@@ -12,11 +10,7 @@
 
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-LightItalic.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-LightItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-LightItalic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-LightItalic.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-LightItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-LightItalic.woff2') format('woff2');
   font-weight: 200; 
   font-style: italic;
   font-display: swap;
@@ -24,11 +18,7 @@
 
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Regular.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Regular.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Regular.woff2') format('woff2');
   font-weight: 300; 
   font-style: normal;
   font-display: swap;
@@ -36,11 +26,7 @@
 
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-RegularItalic.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-RegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-RegularItalic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-RegularItalic.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-RegularItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-RegularItalic.woff2') format('woff2');
   font-weight: 300; 
   font-style: italic;
   font-display: swap;
@@ -48,11 +34,7 @@
 
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Medium.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Medium.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Medium.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Medium.woff2') format('woff2');
   font-weight: 400; 
   font-style: normal;
   font-display: swap;
@@ -60,11 +42,7 @@
 
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-MediumItalic.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-MediumItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-MediumItalic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-MediumItalic.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-MediumItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-MediumItalic.woff2') format('woff2');
   font-weight: 400; 
   font-style: italic;
   font-display: swap;
@@ -72,11 +50,7 @@
 
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Bold.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Bold.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Bold.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Bold.woff2') format('woff2');
   font-weight: 700; 
   font-style: normal;
   font-display: swap;
@@ -84,11 +58,7 @@
 
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BoldItalic.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BoldItalic.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BoldItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BoldItalic.woff2') format('woff2');
   font-weight: 700; 
   font-style: italic;
   font-display: swap;
@@ -96,11 +66,7 @@
 
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Black.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Black.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Black.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Black.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-Black.woff2') format('woff2');
   font-weight: 900; 
   font-style: normal;
   font-display: swap;
@@ -108,11 +74,7 @@
 
 @font-face {
   font-family: 'Satoshi';
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BlackItalic.eot'); /* IE9 Compat Modes */
-  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BlackItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BlackItalic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BlackItalic.woff') format('woff'), /* Modern Browsers */
-       url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BlackItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('https://raw.githubusercontent.com/gezin/satoshi/main/Satoshi-BlackItalic.woff2') format('woff2');
   font-weight: 900; 
   font-style: italic;
   font-display: swap;
